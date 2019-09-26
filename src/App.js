@@ -40,7 +40,7 @@ const phrases = [
          <div id="author"><p style={{color: colors[this.state.indeX]}}>- {phrases[this.state.indeX].author}</p></div> 
          <div class="clicks">
            <button id="new-quote" onClick={this.randomIndex} style={{color: colors[this.state.indeX+1]}}>Next Quote</button> 
-           <a id="tweet-quote" href="twitter.com/intent/tweet"><img id="image" alt="" src="https://www.logospng.com/images/122/twitter-icon-myiconfinder-122964.png" /></a>
+           <a id="tweet-quote" href="https://twitter.com/intent/tweet"><img id="image" alt="" src="http://logodesignfx.com/wp-content/uploads/2019/04/instagram-logo-png-blanco-3.png" /></a>
          </div>
        </div>
         
